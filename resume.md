@@ -1,99 +1,73 @@
-## Íõ½¨Ë«
+## çŽ‹å»ºåŒ
 Arthur Wang
 
-µç»°: (86)15298368071
+ç”µè¯: (86)15298368071
 
-µç×ÓÓÊ¼þ: iostreamin@gmail.com
+ç”µå­é‚®ä»¶: iostreamin@gmail.com
 
 <hr />
 
-### ½ÌÓý¾­Àú
+### æ•™è‚²ç»åŽ†
 
-* ´óÑ§±¾¿Æ(ÔÚ¶Á) (2010.8 ~ ÖÁ½ñ)
+* å¤§å­¦æœ¬ç§‘(åœ¨è¯») (2010.8 ~ è‡³ä»Š)
     
-    ¶«ÄÏ´óÑ§ Èí¼þÑ§Ôº
+    ä¸œå—å¤§å­¦ è½¯ä»¶å­¦é™¢
 
-### ÊµÏ°¾­Àú
+### å®žä¹ ç»åŽ†
 
-* 2012.10 ¨C 2013.4
+* 2012.10 â€“ 2013.4
 
-    ±©×ßÂþ»­ÊµÏ°¿ª·¢¹¤³ÌÊ¦£¬¸ºÔðÇ°Ì¨Ò³Ãæ¼æÈÝ²âÊÔºÍ»áÔ±»ý·ÖÏµÍ³¿ª·¢£¬ÔÚRuby On RailsµÄ¿ª·¢»·¾³ÏÂ²ÉÓÃ²âÊÔÇý¶¯¿ª·¢µÄ·½·¨½øÐÐ¼¼Êõ¿ª·¢¡£
+    æš´èµ°æ¼«ç”»å®žä¹ å¼€å‘å·¥ç¨‹å¸ˆï¼Œè´Ÿè´£å‰å°é¡µé¢å…¼å®¹æµ‹è¯•å’Œä¼šå‘˜ç§¯åˆ†ç³»ç»Ÿå¼€å‘ï¼Œåœ¨Ruby On Railsçš„å¼€å‘çŽ¯å¢ƒä¸‹é‡‡ç”¨æµ‹è¯•é©±åŠ¨å¼€å‘çš„æ–¹æ³•è¿›è¡ŒæŠ€æœ¯å¼€å‘ã€‚
 
-* 2013.6 - ½ñ
+* 2013.6 - ä»Š
 
-    Ç÷ÊÆ¿Æ¼¼±¾µØ»¯²¿ÃÅ ÊµÏ°¿ª·¢¹¤³ÌÊ¦
+    è¶‹åŠ¿ç§‘æŠ€æœ¬åœ°åŒ–éƒ¨é—¨ å®žä¹ å¼€å‘å·¥ç¨‹å¸ˆ,è´Ÿè´£è‡ªåŠ¨åŒ–ç¿»è¯‘ç³»ç»Ÿçš„å¼€å‘ç»´æŠ¤ï¼›åˆ©ç”¨Pythonå’ŒDjangoè¿›è¡Œæ•°æ®ç»Ÿè®¡äºŽç½‘ç«™å¼€å‘æ–¹é¢çš„å·¥ä½œã€‚
 
-### »ñ½±¾­Àú
+### ä¸“ä¸šæŠ€èƒ½
 
-* 2012.3    ÄÏ¿ª´óÑ§³ÌÐòÉè¼Æ´óÈü    ÍâÐ£×éµÚÈýÃû 
+* ç†Ÿç»ƒæŽŒæ¡Javaå¼€å‘ï¼Œä»£ç èƒ½åŠ›å¼ºï¼Œç†Ÿæ‚‰ä½¿ç”¨Jsp,Servletï¼ŒSSHæ¡†æž¶
 
-* 2012.3    ±±¾©ÓÊµç´óÑ§³ÌÐòÉè¼Æ¾ºÈü  ½ð½±
+* ç†Ÿç»ƒä½¿ç”¨Pythonï¼ŒRubyè¯­è¨€å¼€å‘ï¼Œæœ‰ç›¸åº”çš„é¡¹ç›®ç»éªŒ(Djangoï¼ŒRailsç­‰)
 
-* 2012.5    °¢Àï°Í°ÍÄ£ÄâÃæÊÔ´óÈü  ÈýµÈ½±
+* åŸºæœ¬æŽŒæ¡Cç¨‹åºè®¾è®¡è¯­è¨€ï¼Œæœ‰ä¸€å®šçš„ç¼–ç èƒ½åŠ›
 
-* 2012.10  ACM-ICPCÑÇÖÞÇøÓòÈüÌì½òÕ¾ Í­½±
+* æŽ¥è§¦è¿‡C#ã€HTML/CSS/javascriptç­‰ç¼–ç¨‹è¯­è¨€ï¼Œå¹¶èƒ½ç§¯æžå®žè·µ
 
-* 2013.4    ÄÏ¿ª´óÑ§³ÌÐòÉè¼Æ´óÈü    ÍâÐ£×éµÚÒ»Ãû
+* ç†Ÿæ‚‰Linuxæ“ä½œç³»ç»Ÿçš„ä½¿ç”¨ï¼Œå¹¶ä½¿ç”¨Linuxåšä¸ºæ—¥å¸¸å·¥ä½œçš„æ“ä½œç³»ç»Ÿ
 
-* 2013.5    ±±¾©ÓÊµç´óÑ§ °Ù¶È±à³ÌÂíÀ­ËÉ   Ò»µÈ½±
+* ç†Ÿç»ƒåº”ç”¨å¸¸ç”¨ç®—æ³•ã€æ•°æ®ç»“æž„ï¼Œç§¯æžåˆ·OJï¼Œæ²¡æœ‰ç«žèµ›èŽ·å¥–ç»åŽ†
 
-### ×¨Òµ¼¼ÄÜ
+### ä¸ªäººé¡¹ç›®ç»éªŒ
 
-* »ù±¾ÊìÁ·ÕÆÎÕC/C++³ÌÐòÉè¼ÆÓïÑÔ£¬´úÂëÄÜÁ¦Ç¿
+* åˆ·OJç»åŽ† ï¼ˆ2010.11è‡³ä»Šï¼‰
 
-* ÊìÁ·Ê¹ÓÃPythonÓïÑÔ¿ª·¢£¬ÓÐÏàÓ¦µÄÏîÄ¿¾­Ñé(PyGTK,DjangoµÈ)
+    é€šè¿‡è§£å†³ç«žèµ›é¢˜ç›®ï¼Œç§¯ç´¯äº†è¿‘10Kè¡Œçš„ä»£ç ç»éªŒï¼ˆ50%çš„Cï¼Œ50%çš„Pythonï¼Œæžå°‘çš„ä¸ºJavaï¼‰ï¼Œå¼€é˜”äº†è‡ªå·±çš„çœ¼ç•Œï¼Œå¯¹Cå’ŒPythonçš„ç¼–ç¨‹èƒ½åŠ›æœ‰äº†å¾ˆå¤§æé«˜ã€‚
 
-* ½Ó´¥¹ýC#¡¢HTML/CSS/javascript¡¢ScalaµÈ±à³ÌÓïÑÔ£¬²¢ÄÜ»ý¼«Êµ¼ù
-
-* ÊìÏ¤Linux²Ù×÷ÏµÍ³µÄÊ¹ÓÃ£¬²¢Ê¹ÓÃLinux×öÎªÈÕ³£¹¤×÷µÄ²Ù×÷ÏµÍ³
-
-* ÊìÁ·Ó¦ÓÃ³£ÓÃËã·¨¡¢Êý¾Ý½á¹¹£¬ÓÐ¾ºÈü»ñ½±¾­Àú
-
-### ¸öÈËÏîÄ¿¾­Ñé
-
-* ACM-ICPC ¾ºÈü¾­Àú £¨2010.11ÖÁ½ñ£©
-
-    Í¨¹ý½â¾ö¾ºÈüÌâÄ¿£¬»ýÀÛÁË½ü100KÐÐµÄ´úÂë¾­Ñé£¨98%µÄC/C++£¬1%µÄPython£¬ÆäÓàµÄÎªJavaºÍScala£©£¬¿ªÀ«ÁË×Ô¼ºµÄÑÛ½ç£¬±à³ÌÄÜÁ¦ÓÐÁËºÜ´óÌá¸ß¡£
-
-* ±±ÓÊÍø¹ØµÇÂ¼¹¤¾ß £¨2012.4£©
+* å±€åŸŸç½‘èŠå¤©ç³»ç»Ÿ ï¼ˆ2011.7-2011.8ï¼‰
     
-    J2ME°æÊÇµÚÒ»¸ö°æ±¾£¬Ö®ºóÂ½Ðø¿ª·¢ÁËºóÐøµÄVC#°æ (for Win)£¬pyGTK°æ(for Win/Linux)ºÍCLI°æ¡£½Ó´¥²¢ÊìÏ¤ÁËÍøÂç±à³Ì¡£
-×îºóÊ¹ÓÃpython-requestsÄ£¿é9ÐÐ¸ã¶¨¡£
+    åŸºäºŽJava socketï¼Œåœ¨å±€åŸŸç½‘ä¸­å»ºç«‹è¿žæŽ¥ï¼Œç”¨æˆ·ä¸ä»…å¯ä»¥ç›¸äº’äº¤æµè€Œä¸”å¯ä»¥å®šå‘å‘é€æ–‡ä»¶ï¼Œä½¿ç”¨Mysqlå­˜å‚¨ç”¨æˆ·ä¿¡æ¯ä»¥åŠèŠå¤©è®°å½•ã€‚æŽ¥è§¦å¹¶ç†Ÿæ‚‰äº†ç½‘ç»œç¼–ç¨‹ï¼Œè´Ÿè´£çš„æ˜¯åŽå°æ•°æ®åº“å’Œå‘é€æ–‡ä»¶åŠŸèƒ½çš„å¼€å‘ã€‚
 
-* Fuzz²âÊÔÄ£¿é£¨2012.4£©
+* BigBread é‚®ä»¶å®¢æˆ·ç«¯ï¼ˆ2012.1ï¼‰
 
-    ÔÚÊµÑéÊÒµÄÏîÄ¿ÖÐ£¬³Ðµ£±àÐ´Fuzz²âÊÔµÄÈÎÎñ£¬¶ÁÈ¡XMLÎÄ¼þµÄÎÄ¼þÅäÖÃ£¬Éú³É·ûºÏÒ»¶¨±ê×¼µÄËæ»úMp3ÎÄ¼þ£¬ÓÃÀ´²âÊÔ°²×¿µÄÒôÀÖ²¥·ÅÆ÷µÄÂ©¶´¡£
+    æ”¶å‘é‚®ä»¶çš„åŠŸèƒ½åˆ©ç”¨smtpå’Œpop3åè®®å®žçŽ°ï¼Œå®¢æˆ·ç«¯ä½¿ç”¨awtå’Œswingå¼€å‘ï¼Œè´Ÿè´£æ‰€æœ‰çš„è®¾è®¡ï¼Œå¼€å‘ï¼Œæµ‹è¯•ï¼Œæ‰“åŒ…å‘å¸ƒç­‰å·¥ä½œï¼ŒèŽ·å¾—äº†è¯¾ç¨‹ä¼˜ç§€å¥–ã€‚
 
-* 14-CatFish £¨2012.6£©
+* Imusic åœ¨çº¿æŒ‘æ­Œç½‘ç«™ ï¼ˆ2012.6ï¼‰
 
-    Ê¹ÓÃPyGameÐ´³ÉµÄÒ»¸öÆË¿ËÓÎÏ·¡£
+    å›¢é˜Ÿé¡¹ç›®ï¼Œæ¨¡ä»¿è°·æ­Œæ³¡æ³¡æŒ‘æ­ŒæœåŠ¡ï¼Œç”¨æˆ·æ ¹æ®æä¾›çš„å‡ ä¸ªæ¡ä»¶é€‰æ‹©æ­Œæ›²ï¼Œåœ¨çº¿è¯•å¬ã€‚ä¸»è¦ä½¿ç”¨äº†JSPï¼ŒServletï¼ŒSSHç­‰Java webæŠ€æœ¯ã€‚åœ¨å›¢é˜Ÿä¸­è´Ÿè´£è®¾è®¡å¼€å‘æ€è·¯ï¼Œå¼€å‘åŽå°åŠŸèƒ½ï¼Œç½‘ç»œçˆ¬è™«åœ¨çº¿çˆ¬å–æ­Œæ›²åœ°å€ç­‰å·¥ä½œã€‚
 
-* DjWebox£¨2012.9£©
+* Moses æœºå™¨ç¿»è¯‘ç³»ç»Ÿï¼ˆ2013.6ï¼‰
 
-    Ê¹ÓÃDjango±àÐ´µÄÇáÁ¿¼¶ÍøÅÌ£¬Éè¼Æ·½ÏòÊÇÐ¡ÐÍ°ì¹«ÊÒºÍÊµÑéÊÒµÄÎÄ¼þ°²È«´æ´¢¡£Ê¹ÓÃÁËRSA¡¢MD5¡¢RC4µÈÃÜÂëËã·¨£¬±£Ö¤ÓÃ»§Êý¾Ý°²È«¡£Ìá¹©ÁËÔÚÏßÍøÅÌµÄ»ù±¾¹¦ÄÜ£¬Ê¹ÓÃPyGTKÖÆ×÷¿Í»§¶Ë¡£
+    åˆ©ç”¨å¼€æºçš„Mosesæœºå™¨ç¿»è¯‘ç³»ç»Ÿæ­å»ºä»Žè‹±è¯­ç¿»è¯‘æˆå…¶ä»–è¯­è¨€çš„ç±»ä¼¼äºŽGoogle Translateçš„ç³»ç»Ÿï¼Œé€šè¿‡è®­ç»ƒæ¨¡åž‹ï¼Œè°ƒæ•´å‚æ•°ï¼Œç»Ÿè®¡ç¿»è¯‘ç»“æžœç­‰æ­¥éª¤ï¼Œå¯¹æœºå™¨å­¦ä¹ æœ‰äº†åŸºæœ¬çš„äº†è§£ã€‚
 
-* ÈËÈËÍøÐ¡»Æ¼¦ Ëã24µã²å¼þ £¨2013.1£©
+### My Github & Blog
 
-    Ò»¸ö¼ÆËã24µãµÄÐ¡»Æ¼¦²å¼þ£¨Ö®ºóÉý¼¶ÎªÈÎÒâµãÊý£©£¬Í¨¹ýÔ¤´¦ÀíËùÓÐ¼ÆËã½á¹û£¬Éú³ÉHash×öÎªË÷Òý£¬¿ìËÙÏìÓ¦¼ÆËãÇëÇó¡£
+* https://github.com/xeostream
 
-* ¡°ÎÒÒª½äÈËÈË¡±Chrome²å¼þ £¨2013.4£©
+     ç®€åŽ†ä¸­æåŠçš„å¤§éƒ¨åˆ†é¡¹ç›®ä»£ç éƒ½æ‰˜ç®¡åœ¨Githubä¸Š
+    
+* http://xeostream.github.io
 
-    Ò»¸öChrome²å¼þ£¬ÓÃÀ´½ä³ýÉç½»ÍøÂçÒÀÀµ£¬Ê¹ÓÃjavascriptÓïÑÔ±àÐ´£¬²¢Ê¹ÓÃFlat-ui£¨BootstrapµÄÒ»¸öÑÜÉú°æ£©ÖÆ×÷Ç°¶Ë¡£
+### ç¼–ç¨‹ç†å¿µ & å·¥ä½œæœŸæœ›
 
-* Coursera¹«¿ª¿Î£ºFunctional Programming Principles in Scala £¨2013.4£©
-
-     ²ÎÓëScala¹«¿ª¿ÎµÄÑ§Ï°£¬²¢»ñµÃ½áÒµÖ¤Êé¡£
-
-* BYRÊ÷¶´ £¨2013.5£©
-
-    Ò»¸ö»ùÓÚDjangoµÄÊ÷¶´Ó¦ÓÃ£¬²¿ÊðÔÚBAEÉÏ£¬ÊµÏÖÁË»ùÓÚÓÃ»§Í¶Æ±ÅÅÃûËã·¨ÓëÉóºË»úÖÆ£¬²¢ÓëÉç½»ÍøÂçÁ¬½Ó£¨http://BYRTreeHole.duapp.com£©
-
-* ×©¹¤À×´ï £¨2013.8£©
-
-    »ùÓÚDjangoµÄÅÀ³æÓ¦ÓÃ£¬ÓÃÀ´×¥È¡¡¢É¸Ñ¡¡¢¾ÛºÏ¡¢Õ¹ÏÖÐ£ÕÐÐÅÏ¢£¬²¿ÊðÔÚBAEÉÏ¡££¨http://BrickRadar.duapp.com£©
-
-### My Github
-
-* https://github.com/wizmann
-
-* ¼òÀúÖÐÌá¼°µÄËùÓÐÏîÄ¿´úÂë¶¼ÍÐ¹ÜÔÚGithubÉÏ
+* ä½¿ç”¨gitç‰ˆæœ¬æŽ§åˆ¶ï¼Œçƒ­è¡·äºŽæµ‹è¯•é©±åŠ¨å¼€å‘(TDD)ï¼Œäº«å—æŠŠæƒ³æ³•è½¬åŒ–ä¸ºçŽ°å®žçš„è¿‡ç¨‹ã€‚çƒ­çˆ±å¼€æºï¼Œçƒ­è¡·äºŽåœ¨githubä¸Šåˆ†äº«è‡ªå·±çš„ä»£ç ï¼Œæ¬£èµå¹¶å­¦ä¹ æŠ€æœ¯ç‰›äººçš„ä»£ç ç†å¿µå’Œä»£ç é£Žæ ¼ã€‚
+* æ€ç»´ä¸¥è°¨ï¼Œç§¯æžä¸»åŠ¨ï¼Œå¸Œæœ›ä»Žäº‹äºŽè½¯ä»¶å¼€å‘çš„ç›¸å…³å·¥ä½œã€‚
